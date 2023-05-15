@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HFGF\\Source\\Repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\CafeVesuvius.csproj": {}
+    "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\CafeVesuvius.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HFGF\\Source\\Repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\CafeVesuvius.csproj": {
+    "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\CafeVesuvius.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HFGF\\Source\\Repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\CafeVesuvius.csproj",
+        "projectUniqueName": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\CafeVesuvius.csproj",
         "projectName": "CafeVesuvius",
-        "projectPath": "C:\\Users\\HFGF\\Source\\Repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\CafeVesuvius.csproj",
+        "projectPath": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\CafeVesuvius.csproj",
         "packagesPath": "C:\\Users\\HFGF\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\HFGF\\Source\\Repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\obj\\",
         "projectStyle": "PackageReference",
