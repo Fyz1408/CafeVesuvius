@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CafeVesuvius"
   ],
-  "SelectedNode": "\\CafeVesuvius.sln",
+  "SelectedNode": "\\CafeVesuvius\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

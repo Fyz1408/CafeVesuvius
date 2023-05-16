@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CZ2s0lY3NBLimd5cV2lEbZ2elp7uY9TCbuBjc8MxRIRDF3lOi1v+HkBUBUpOLXhXXGNPj05IjZLhljvgO4LYJA==",
+  "dgSpecHash": "upjstiD+MCXDyDnMUIlpi3B2CuqZBd0GdH2kNUSRnggn7G1sgw8xjZqolqy0NmrtkU+Hc2ETWh+kNJiG4c/laA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HFGF\\Source\\Repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\CafeVesuvius.csproj",
+  "projectFilePath": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\CafeVesuvius.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HFGF\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\HFGF\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
