@@ -13,3 +13,38 @@ main {
     bottom: 40px;
     left: 0;
 }
+.ZeroTextDecoration {
+    text-decoration: none;
+    color: black;
+}
+.image {
+    position: relative;
+    width: 100%; 
+}
+
+.container1 {
+    position: relative;
+    
+}
+
+/* Bottom right text */
+.text-block1 {
+    position: absolute;
+    bottom: 5%;
+    right: 30%;
+    left: 30%;
+    top: 30%;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.footer {
+    /*position: -webkit-sticky;
+    position: sticky;
+    bottom: 0;*/
+    
+    /*padding: 50px;*/
+    /*font-size: 20px;*/
+
+}

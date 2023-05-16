@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CafeVesuvius"
+    "\\CafeVesuvius",
+    "\\CafeVesuvius\\wwwroot",
+    "\\CafeVesuvius\\wwwroot\\IMG"
   ],
-  "SelectedNode": "\\CafeVesuvius\\Program.cs",
+  "SelectedNode": "\\CafeVesuvius\\wwwroot\\index.html",
   "PreviewInSolutionExplorer": false
 }

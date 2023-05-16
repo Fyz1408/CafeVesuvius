@@ -1,24 +1,48 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Cafe Visuvius Hjemmeside icon 1.PNG",
-      "PackagePath": "staticwebassets\\IMG\\Cafe Visuvius Hjemmeside icon 1.PNG"
+      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Icon\\Cafe Visuvius Hjemmeside icon 1.PNG",
+      "PackagePath": "staticwebassets\\IMG\\Icon\\Cafe Visuvius Hjemmeside icon 1.PNG"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Cafe Visuvius Hjemmeside icon.PNG",
-      "PackagePath": "staticwebassets\\IMG\\Cafe Visuvius Hjemmeside icon.PNG"
+      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Icon\\Cafe Visuvius Hjemmeside icon.PNG",
+      "PackagePath": "staticwebassets\\IMG\\Icon\\Cafe Visuvius Hjemmeside icon.PNG"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\facebook.svg",
-      "PackagePath": "staticwebassets\\IMG\\facebook.svg"
+      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Icon\\facebook.svg",
+      "PackagePath": "staticwebassets\\IMG\\Icon\\facebook.svg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\instagram.svg",
-      "PackagePath": "staticwebassets\\IMG\\instagram.svg"
+      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Icon\\instagram.svg",
+      "PackagePath": "staticwebassets\\IMG\\Icon\\instagram.svg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\messenger.svg",
-      "PackagePath": "staticwebassets\\IMG\\messenger.svg"
+      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Icon\\messenger.svg",
+      "PackagePath": "staticwebassets\\IMG\\Icon\\messenger.svg"
+    },
+    {
+      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Icon\\youtube.svg",
+      "PackagePath": "staticwebassets\\IMG\\Icon\\youtube.svg"
+    },
+    {
+      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Restaurant Items\\Hjemmelavet-Burger-Shack-Burger-1.webp",
+      "PackagePath": "staticwebassets\\IMG\\Restaurant Items\\Hjemmelavet-Burger-Shack-Burger-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Restaurant Items\\Tigerrejesalat.jpg",
+      "PackagePath": "staticwebassets\\IMG\\Restaurant Items\\Tigerrejesalat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Restaurant Items\\llama-drinks-1000x600.jpg",
+      "PackagePath": "staticwebassets\\IMG\\Restaurant Items\\llama-drinks-1000x600.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Restaurant Items\\nachos supreme.jpg",
+      "PackagePath": "staticwebassets\\IMG\\Restaurant Items\\nachos supreme.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\restaurant food Img 2-1.jpg",
+      "PackagePath": "staticwebassets\\IMG\\restaurant food Img 2-1.jpg"
     },
     {
       "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\restaurant food Img 2.jpg",
@@ -29,8 +53,8 @@
       "PackagePath": "staticwebassets\\IMG\\restaurant food Img 3.avif"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\youtube.svg",
-      "PackagePath": "staticwebassets\\IMG\\youtube.svg"
+      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\Fodder.css",
+      "PackagePath": "staticwebassets\\css\\Fodder.css"
     },
     {
       "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap-grid.css",
