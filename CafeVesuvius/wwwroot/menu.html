@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cafe Vesuvius</title>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.6.3.min.js"></script>
+    <script type="text/javascript" async="" src="/js/menu.js"></script>
+    <link rel="stylesheet" href="styles/menuStyles.css">
+    <link href="css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="css/bootstrap.rtl.min.css" rel="stylesheet"/>
+</head>
+<body>
+<nav class="navbar navbar-light bg-light">
+    <span class="navbar-brand mb-0 h1">Cafe Vesuvius </span>
+</nav>
+
+<main>
+    <H1> Menu </H1>
+    <section id="menuItemsFilters" class="d-flex">
+        <div id="menuSearchSection">
+            <p>Type something in the input field to search the table for menu items:</p>
+            <input class="form-control" id="menuItemsSearch" type="text" placeholder="Search.."/>
+        </div>
+
+
+        <div id="dropdownSection" style="margin-left: 5%">
+            <p>Choose a menu category from the dropdown </p>
+            <select id="menuItemsDropdown" class="menuItemsDropdown form-select form-select-sm">
+                <option value="Default" id="menuItemsDropdownDefault">Vælg en kategori!</option>
+            </select>
+        </div>
+    </section>
+
+    <hr>
+    <section id="menuItems" class="container-fluid">
+        <div class="d-flex justify-content-center align-content-center">
+            <div id="menuItemsRow" class="row">
+                <div class="spinner-border" role="status"></div>
+            </div>
+        </div>
+    </section>
+
+</main>
+</body>
+</html>

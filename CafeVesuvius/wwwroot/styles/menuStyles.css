@@ -1,0 +1,41 @@
+body {
+    font-family: "Roboto Light", system-ui;
+    background: white;
+}
+
+main {
+    max-width: 1400px;
+    margin: 30px auto auto;
+    background: whitesmoke;
+    padding: 10px;
+    border-radius: 5px;
+    height: 900px;
+}
+
+.menuItemImg {
+    width: 400px;
+    height: 400px;
+}
+
+.menuItem {
+    display: flex !important;
+    justify-content: space-between !important;
+    height: 45px;
+}
+
+.menuItemPrice {
+    height: fit-content;
+    white-space: nowrap;
+    width: 70px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.menuItemText {
+    height: fit-content;
+    white-space: nowrap;
+    min-width: 150px;
+    max-width: 300px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
