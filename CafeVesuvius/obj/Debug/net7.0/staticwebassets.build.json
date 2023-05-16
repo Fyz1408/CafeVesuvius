@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9//N+m7nhYiiX8aApqsdQIYYpYDiRk7pWMlRg/U5w5c=",
+  "Hash": "Mzr5KlpBZrbIcbCXTCqdMCIfA8GYwaQvpZLUMto8jv0=",
   "Source": "CafeVesuvius",
   "BasePath": "_content/CafeVesuvius",
   "Mode": "Default",
@@ -1018,6 +1018,57 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\js\\menu.js",
+      "SourceId": "CafeVesuvius",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\",
+      "BasePath": "_content/CafeVesuvius",
+      "RelativePath": "js/menu.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\menu.js"
+    },
+    {
+      "Identity": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\menu.html",
+      "SourceId": "CafeVesuvius",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\",
+      "BasePath": "_content/CafeVesuvius",
+      "RelativePath": "menu.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\menu.html"
+    },
+    {
+      "Identity": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\styles\\menuStyles.css",
+      "SourceId": "CafeVesuvius",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\",
+      "BasePath": "_content/CafeVesuvius",
+      "RelativePath": "styles/menuStyles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles\\menuStyles.css"
     }
   ]
 }

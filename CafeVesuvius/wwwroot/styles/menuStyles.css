@@ -9,7 +9,11 @@ main {
     background: whitesmoke;
     padding: 10px;
     border-radius: 5px;
-    height: 900px;
+    height: auto;
+}
+
+#menuItemsRow {
+    width: 100%;
 }
 
 .menuItemImg {
@@ -20,7 +24,7 @@ main {
 .menuItem {
     display: flex !important;
     justify-content: space-between !important;
-    height: 45px;
+    height: 45px; 
 }
 
 .menuItemPrice {

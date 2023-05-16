@@ -1,5 +1,6 @@
 $(function () {
 
+    setupProductCategoriesAndMenu();
     $("#menuItemsDropdown").change(function () {
         var id = $(this).val();
         if (id === "Default") {
@@ -13,23 +14,22 @@ $(function () {
     });
 
     setupDropdown();
-    setupProductCategories();
-    setupMenu();
 });
 
 
 // Gets all product categories from API and create the category rows
-function setupProductCategories() {
+function setupProductCategoriesAndMenu() {
     $.get('/allProductCategories',
         function (response) {
             $("#menuItemsRow").empty();
             var data = jQuery.parseJSON(response);
             $.each(data, function (key, value) {
                 $("#menuItemsRow").append(
-                    "<div class='menuItemTitle' id=menuItemTitle" + value.Id + ">" + "<h4>" + value.Name + "</h4>" +
+                    "<div class='menuItemTitle' style='margin-top: 15px' id=menuItemTitle" + value.Id + ">" + "<h4>" + value.Name + "</h4>" +
                     "<div class='list-group' id=list-group" + value.Id + ">" + "</div></div>"
                 );
             });
+            setupMenu();
         });
 }
 
@@ -37,7 +37,6 @@ function setupProductCategories() {
 function setupMenu() {
     $.get('/allMenuItemsWithProductCategory',  // url
         function (response) {
-            //$("#menuItemsRow").empty();
             var data = jQuery.parseJSON(response);
             $.each(data, function (key, value) {
                 $("#" + 'list-group' + value.ProductCategoryId).append(
