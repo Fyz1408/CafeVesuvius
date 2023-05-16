@@ -6,6 +6,28 @@ main {
     margin-bottom: 220px;
 }
 
+.hero-header-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: whitesmoke;
+}
+
+.welcomeImageBackground {
+    object-fit: cover;
+    opacity: 0.4;
+}
+
+header {
+    height: 600px;
+    width: 100vw;
+    background: black;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+}
+
 .footer-bs {
     position: absolute;
     width: 100%;
@@ -17,14 +39,15 @@ main {
     text-decoration: none;
     color: black;
 }
+
 .image {
     position: relative;
-    width: 100%; 
+    width: 100%;
 }
 
 .container1 {
     position: relative;
-    
+
 }
 
 /* Bottom right text */
@@ -39,11 +62,12 @@ main {
     padding-left: 20px;
     padding-right: 20px;
 }
+
 .footer {
     /*position: -webkit-sticky;
     position: sticky;
     bottom: 0;*/
-    
+
     /*padding: 50px;*/
     /*font-size: 20px;*/
 
