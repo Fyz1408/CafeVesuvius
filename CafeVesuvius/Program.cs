@@ -19,7 +19,7 @@ app.MapGet("/allMenuItems", async () =>
 app.MapGet("/allMenuItemsWithProductCategory", async () =>
 {
   using (SqlConnection conn = new SqlConnection(builder.Configuration.GetConnectionString("TestConnection")))
-  using (SqlCommand sqlCommand = new SqlCommand("GetAllMenuItemsWithProductCategoryJSONFixed", conn))
+  using (SqlCommand sqlCommand = new SqlCommand("GetAllMenuItemsWithProductCategoryOptimal", conn))
   {
     conn.Open();
     return await sqlCommand.ExecuteScalarAsync();

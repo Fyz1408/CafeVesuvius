@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Cafe Vesuvius</title>
+    <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cafe Vesuvius - Menu</title>
     <script type="text/javascript" src="https://code.jquery.com/jquery-3.6.3.min.js"></script>
     <script type="text/javascript" async="" src="/js/menu.js"></script>
     <link rel="stylesheet" href="styles/menuStyles.css">
@@ -10,36 +10,126 @@
     <link href="css/bootstrap.rtl.min.css" rel="stylesheet"/>
 </head>
 <body>
-<nav class="navbar navbar-light bg-light">
-    <span class="navbar-brand mb-0 h1">Cafe Vesuvius </span>
+<nav class="navbar navbar-expand-sm bg-transparent navbar-light">
+    <div class="container-fluid ">
+        <a class="navbar-brand" href="index.html">
+            <img alt="vesuvius-logo" src="IMG/Icon/Cafe Visuvius Hjemmeside icon 1.PNG" style="width:30%;" class="rounded-pill" />
+
+        </a>
+        <p class="pt-3" href="index.html">Cafe Vesuvius</p>
+        <ul class="navbar-nav ms-auto nav-tabs">
+            <li class="nav-item">
+                <a class="nav-link text-center" href="index.html">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Book</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link active" href="menu.html">Menu</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Om os</a>
+            </li>
+        </ul>
+        <a class="navbar-brand" href="https://da-dk.facebook.com/">
+            <img alt="facebook-logo" src="IMG/Icon/facebook.svg" style="width:20px;" />
+        </a>
+        <a class="navbar-brand" href="https://www.instagram.com/">
+            <img alt="instagram-logo" src="IMG/Icon/instagram.svg" style="width:20px;" />
+        </a>
+        <a class="navbar-brand" href="https://www.youtube.com/?hl=da&gl=DK">
+            <img alt="youtube-logo" src="IMG/Icon/youtube.svg" style="width:20px;" />
+        </a>
+
+    </div>
 </nav>
 
 <main>
     <H1> Menu </H1>
     <section id="menuItemsFilters" class="d-flex">
-        <div id="menuSearchSection">
-            <p>Type something in the input field to search the table for menu items:</p>
-            <input class="form-control" id="menuItemsSearch" type="text" placeholder="Search.."/>
-        </div>
-
-
-        <div id="dropdownSection" style="margin-left: 5%">
-            <p>Choose a menu category from the dropdown </p>
+        <div id="dropdownSection">
+            <p>Vælg en kategori fra menuen:</p>
             <select id="menuItemsDropdown" class="menuItemsDropdown form-select form-select-sm">
-                <option value="Default" id="menuItemsDropdownDefault">Vælg en kategori!</option>
+                <option value="Default" id="menuItemsDropdownDefault">Vælg en kategori</option>
             </select>
         </div>
     </section>
 
     <hr>
     <section id="menuItems" class="container-fluid">
-        <div class="d-flex justify-content-center align-content-center">
-            <div id="menuItemsRow" class="row">
+        <div class="d-flex align-content-center">
+            <div id="menuItemsRow" class="row justify-content-center">
                 <div class="spinner-border" role="status"></div>
             </div>
         </div>
     </section>
 
 </main>
+
+
+<footer class="bg-white sticky footer">
+    <!--style="background-color: rgb(0, 0, 0);-->
+
+    <div class="row mt-5 text-center">
+        <div class="col-3">
+            <p>@Café Vesuvius</p>
+        </div>
+        <div class="col-3">
+            <p>Tags</p>
+        </div>
+        <div class="col-2">
+            <p>Social</p>
+        </div>
+        <div class="col-2">
+            <p>About</p>
+        </div>
+    </div>
+    <div class="row mt-3">
+        <div class="col-3 text-center">
+            <p style="margin:0% 0% 0% 5%;">
+                © 2023 Café Vesuvius.  All rights reserved.
+            </p>
+            <p style="margin:0% 0% 0% 5%;">
+                Terms of Service   •   Privacy Policy
+                Lerchesgade 4, 5000 Odense C +45:69420099 CVR: 77755599
+            </p>
+        </div>
+        <div class="col-3 text-center">
+            <p class="">
+                | Food  | Cafe | Restaurant |
+            </p>
+            <p class="">
+                | Social | Drinks |
+            </p>
+            <p class="">
+                | Dinner | Modern | Tasty |
+            </p>
+        </div>
+        <div class="col-2 text-center">
+            <a class="navbar-brand" href="https://da-dk.facebook.com/">
+                <img alt="facebook-logo" src="IMG/Icon/facebook.svg" style="width:20px;" /><br>
+
+            </a>
+            <a class="navbar-brand" href="https://www.instagram.com/">
+                <img alt="instagram-logo" src="IMG/Icon/instagram.svg" style="width:20px;" /><br>
+            </a>
+            <a class="navbar-brand" href="https://www.youtube.com/?hl=da&gl=DK">
+                <img alt="youtube-logo" src="IMG/Icon/youtube.svg" style="width:20px;" /><br>
+            </a>
+        </div>
+        <div class="col-2 text-center ">
+
+            <a class="ZeroTextDecoration" href="index.html">Forside</a><br>
+            <a class="ZeroTextDecoration" href="#">Book</a><br>
+            <a class="ZeroTextDecoration" href="#">Menu</a><br>
+            <a class="ZeroTextDecoration" href="#">Lokation</a><br>
+            <a class="ZeroTextDecoration" href="#">Om os</a>
+        </div>
+    </div>
+    <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.025);">
+        © 4778 Copyright: Cafe Vesuvius
+    </div>
+</footer>
+
 </body>
 </html>
