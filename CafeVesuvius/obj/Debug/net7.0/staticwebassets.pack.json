@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets\\IMG\\Icon\\youtube.svg"
     },
     {
+      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Person.png",
+      "PackagePath": "staticwebassets\\IMG\\Person.png"
+    },
+    {
       "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Restaurant Items\\Hjemmelavet-Burger-Shack-Burger-1.webp",
       "PackagePath": "staticwebassets\\IMG\\Restaurant Items\\Hjemmelavet-Burger-Shack-Burger-1.webp"
     },
@@ -53,8 +57,20 @@
       "PackagePath": "staticwebassets\\IMG\\restaurant food Img 3.avif"
     },
     {
+      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\Om_os.html",
+      "PackagePath": "staticwebassets\\Om_os.html"
+    },
+    {
+      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\Reservation.html",
+      "PackagePath": "staticwebassets\\Reservation.html"
+    },
+    {
       "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\Fodder.css",
       "PackagePath": "staticwebassets\\css\\Fodder.css"
+    },
+    {
+      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\SheetReservation.css",
+      "PackagePath": "staticwebassets\\css\\SheetReservation.css"
     },
     {
       "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap-grid.css",
