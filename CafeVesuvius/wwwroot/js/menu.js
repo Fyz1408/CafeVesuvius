@@ -1,7 +1,14 @@
 $(function () {
+    
+    if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+        setupProductCategoriesAndMenu(false);
+    } else {
+        $("#toggleMenuPicturesSwitch").prop('checked', true)
+        setupProductCategoriesAndMenu(true);
+    }
 
-    setupProductCategoriesAndMenu();
-    $("#menuItemsDropdown").change(function () {
+    // Filter menu items when dropdown changes value
+    $(".onChangeMenu").change(function () {
         var id = $(this).val();
         if (id === "Default") {
             $("#menuItemsDropdown option:first").text('Vælg en kategori');
@@ -13,35 +20,70 @@ $(function () {
         }
     });
 
+    $("#toggleMenuPicturesSwitch").change(function () {
+        $("#menuItemsDropdown")[0].selectedIndex = 0;
+        if (this.checked) {
+            setupProductCategoriesAndMenu(true);
+        } else {
+            setupProductCategoriesAndMenu(false);
+        }
+    });
+
     setupDropdown();
 });
 
 
 // Gets all product categories from API and create the category rows
-function setupProductCategoriesAndMenu() {
+function setupProductCategoriesAndMenu(withImages) {
     $.get('/allProductCategories',
         function (response) {
-            $("#menuItemsRow").empty();
+            $("#menuItemSection").empty();
             var data = jQuery.parseJSON(response);
             $.each(data, function (key, value) {
-                $("#menuItemsRow").append(
-                    "<div class='menuItemTitle' style='margin-top: 15px' id=menuItemTitle" + value.Id + ">" + "<h4>" + value.Name + "</h4>" +
-                    "<div class='list-group' id=list-group" + value.Id + ">" + "</div></div>"
-                );
+                if (withImages) {
+                    $("#menuItemSection").append(
+                        "<div class='row justify-content-center' id=menuItemsRow" + value.Id + ">" +
+                        "<div class='menuItemTitle' style='margin-top: 15px' id=menuItemTitle" + value.Id + ">" +
+                        "<h4>" + value.Name + "</h4>" +
+                        "<div class='list-group flex-row overflow-scroll' id=list-group" + value.Id + ">" +
+                        "</div></div></div>"
+                    );
+                } else {
+                    $("#menuItemSection").append(
+                        "<div class='menuItemTitle' style='margin-top: 15px' id=menuItemTitle" + value.Id + ">" +
+                        "<h4>" + value.Name + "</h4>" +
+                        "<div class='list-group' id=list-group" + value.Id + ">" +
+                        "</div></div>"
+                    );
+                }
             });
-            setupMenu();
+            setupMenu(withImages);
         });
 }
 
 // Inserts all the menu items from the API into the category rows
-function setupMenu() {
+function setupMenu(withImages) {
     $.get('/allMenuItemsWithProductCategory',  // url
         function (response) {
             var data = jQuery.parseJSON(response);
             $.each(data, function (key, value) {
-                $("#" + 'list-group' + value.ProductCategoryId).append(
-                    "<a href='#' class='menuItem list-group-item'>" + value.ProductName + "<b>Fra " + value.Price + ",-</b></a>"
-                );
+                if (withImages) {
+                    $("#" + 'list-group' + value.ProductCategoryId).append(
+                        "<a href='#' class='menuItemUnit list-group-item flex-column'>" +
+                        "<img class='img-fluid rounded menuItemImg' src=" + "IMG/menu/webp/" + value.ProductId + ".webp" + " onerror=this.src='IMG/menu/default.jpg'; alt=" + value.ProductName.replace(/ /g, '') + "/>" +
+                        "<b class='menuItem'>" + value.ProductName + "</b>" +
+                        "<p class=menuDescription>" + value.Description + "</p>" +
+                        "<b>Fra " + value.Price + ",-</b>" +
+                        "</a>"
+                    );
+                } else {
+                    $("#" + 'list-group' + value.ProductCategoryId).append(
+                        "<a href='#' class='list-group-item flex-column'>" +
+                        "<p class='menuItem'>" + value.ProductName +
+                        "<b>Fra " + value.Price + ",-" +
+                        "</b></p></a>"
+                    );
+                }
             });
         });
 }
@@ -58,4 +100,3 @@ function setupDropdown() {
             });
         });
 }
-

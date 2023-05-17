@@ -10,21 +10,31 @@ main {
     padding: 10px;
     border-radius: 5px;
     height: auto;
+    min-height: 25em;
 }
 
 #menuItemsRow {
     width: 100%;
 }
 
-.menuItemImg {
-    width: 400px;
-    height: 400px;
-}
-
 .menuItem {
     display: flex !important;
     justify-content: space-between !important;
-    height: 45px; 
+}
+.menuItemImg {
+    width: 25em !important;
+    height: 25em !important;
+    object-fit: cover;
+}
+
+.menuItemUnit {
+    min-width: 20em !important;
+    max-width: 25em !important;
+    margin: 10px
+}
+
+.menuDescription {
+    margin-bottom: 0.2rem !important;
 }
 
 .menuItemPrice {
