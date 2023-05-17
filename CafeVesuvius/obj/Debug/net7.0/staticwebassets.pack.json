@@ -1,8 +1,12 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Icon\\Cafe Visuvius Hjemmeside icon 1.PNG",
-      "PackagePath": "staticwebassets\\IMG\\Icon\\Cafe Visuvius Hjemmeside icon 1.PNG"
+      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Icon\\Cafe Visuvius Hjemmeside icon 1.1.PNG",
+      "PackagePath": "staticwebassets\\IMG\\Icon\\Cafe Visuvius Hjemmeside icon 1.1.PNG"
+    },
+    {
+      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Icon\\Cafe Visuvius Hjemmeside icon 1.png",
+      "PackagePath": "staticwebassets\\IMG\\Icon\\Cafe Visuvius Hjemmeside icon 1.png"
     },
     {
       "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Icon\\Cafe Visuvius Hjemmeside icon.PNG",
@@ -23,6 +27,10 @@
     {
       "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Icon\\youtube.svg",
       "PackagePath": "staticwebassets\\IMG\\Icon\\youtube.svg"
+    },
+    {
+      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Person.png",
+      "PackagePath": "staticwebassets\\IMG\\Person.png"
     },
     {
       "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Restaurant Items\\Hjemmelavet-Burger-Shack-Burger-1.webp",
@@ -53,8 +61,20 @@
       "PackagePath": "staticwebassets\\IMG\\restaurant food Img 3.avif"
     },
     {
+      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\Om_os.html",
+      "PackagePath": "staticwebassets\\Om_os.html"
+    },
+    {
+      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\Reservation.html",
+      "PackagePath": "staticwebassets\\Reservation.html"
+    },
+    {
       "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\Fodder.css",
       "PackagePath": "staticwebassets\\css\\Fodder.css"
+    },
+    {
+      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\SheetReservation.css",
+      "PackagePath": "staticwebassets\\css\\SheetReservation.css"
     },
     {
       "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap-grid.css",
@@ -235,6 +255,18 @@
     {
       "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\js\\menu.js",
+      "PackagePath": "staticwebassets\\js\\menu.js"
+    },
+    {
+      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\menu.html",
+      "PackagePath": "staticwebassets\\menu.html"
+    },
+    {
+      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\styles\\menuStyles.css",
+      "PackagePath": "staticwebassets\\styles\\menuStyles.css"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.CafeVesuvius.Microsoft.AspNetCore.StaticWebAssets.props",

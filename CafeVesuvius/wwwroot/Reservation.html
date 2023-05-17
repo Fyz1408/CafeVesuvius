@@ -10,7 +10,42 @@
     <title></title>
 </head>
 <body style="background-color:lightgray">
-    <form style="margin-left:15%; padding-bottom:5%; padding-left: 5%; background-color: white; width:70%">
+    <div style="background-color:white">
+        <div class="row"></div>
+        <nav class="navbar navbar-expand-sm bg-transparent navbar-light">
+            <div class="container-fluid ">
+                <a class="navbar-brand" href="index.html">
+                    <img src="IMG/Icon/Cafe Visuvius Hjemmeside icon 1.PNG" style="width:50%;" class="rounded-pill" />
+                </a>
+
+                <ul class="navbar-nav ms-auto nav-tabs">
+                    <li class="nav-item">
+                        <a class="nav-link  text-center" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="Reservation.html">Book</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="menu.html">Menu</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Om_os.html">Om os</a>
+                    </li>
+                </ul>
+                <a class="navbar-brand" href="https://da-dk.facebook.com/">
+                    <img src="IMG/Icon/facebook.svg" style="width:20px;" />
+                </a>
+                <a class="navbar-brand" href="https://www.instagram.com/">
+                    <img src="IMG/Icon/instagram.svg" style="width:20px;" />
+                </a>
+                <a class="navbar-brand" href="https://www.youtube.com/?hl=da&gl=DK">
+                    <img src="IMG/Icon/youtube.svg" style="width:20px;" />
+                </a>
+
+            </div>
+        </nav>
+    </div>
+    <form style="margin-left:15%; padding-bottom:10%; padding-left: 5%; background-color: white; width:70%">
         <h1 style=" margin-left:2%">Reserver Bord</h1>
         <div style="margin-top: 2%" class="grayBox">
             <div style="display:inline-flex">
@@ -24,11 +59,11 @@
                 </div>
                 <div>
                     <h2>Dato</h2>
-                    <input type="datetime" name="resrevationTime" style="width:100%"/>
+                    <input type="datetime" name="resrevationTime" style="width:100%" />
                 </div>
             </div>
         </div>
-        <div class="grayBox" style="margin-top:2%">
+        <div class="grayBox" style="margin-top:2%; margin-bottom: 0%">
             <div style="display: inline-flex; margin-bottom: 4%">
                 <div style="margin-right: 3%">
                     <h2>Fornavn</h2>
@@ -36,26 +71,90 @@
                 </div>
                 <div style="margin-right: 3%">
                     <h2>Efternavn</h2>
-                    <input type="text" name="efternavn" placeholder="Efternavn" style="border-radius: 4px; width:100%"/>
+                    <input type="text" name="efternavn" placeholder="Efternavn" style="border-radius: 4px; width:100%" />
                 </div>
                 <div style="margin-right: 3%">
                     <h2>Email</h2>
-                    <input type="text" name="e-mail" placeholder="Email" style="border-radius: 4px; width:100%"/>
+                    <input type="text" name="e-mail" placeholder="Email" style="border-radius: 4px; width:100%" />
                 </div>
                 <div>
                     <h2>Tfl nummer</h2>
-                    <input type="text" name="tlf-num" placeholder="Tlf nummer" style="border-radius: 4px; width:100%"/>
+                    <input type="text" name="tlf-num" placeholder="Tlf nummer" style="border-radius: 4px; width:100%" />
                 </div>
             </div>
             <div>
                 <h2>Allergier og kostpræfefencer</h2>
                 <p style="width:50%">Hvis der er allerger eller særlige kost præferencer, som vi skal tage hensyn til, beder vi jer kontakte os på forhånd for at aftale nærmere på (+45 69420099). Vi forbeholder os retten til at endre i menuen på dagen.</p>
                 <div style="display:inline-flex">
-                    <input type="submit" name="bestil" value="Bestil" style="border-radius: 4px; width: 20%; margin-right: 5%; max-height: 40px"/>
+                    <input type="submit" name="bestil" value="Bestil" style="border-radius: 4px; width: 20%; margin-right: 5%; max-height: 40px" />
                     <p> vi henviser tiil vores betingelser for annulleringer og afbestillinger</p>
                 </div>
             </div>
         </div>
     </form>
+
+    <footer class="bg-white sticky footer pt-2">
+        
+
+        <div class="row mt-5 text-center" style="margin-top: 0px !important">
+            <div class="col-3">
+                <p>@Café Vesuvius</p>
+            </div>
+            <div class="col-3">
+                <p>Tags</p>
+            </div>
+            <div class="col-2">
+                <p>Social</p>
+            </div>
+            <div class="col-2">
+                <p>About</p>
+            </div>
+        </div>
+        <div class="row mt-3">
+            <div class="col-3 text-center">
+                <p style="margin:0% 0% 0% 5%;">
+                    © 2023 Café Vesuvius.  All rights reserved.
+                </p>
+                <p style="margin:0% 0% 0% 5%;">
+                    Terms of Service   •   Privacy Policy
+                    Lerchesgade 4, 5000 Odense C +45:69420099 CVR: 77755599
+                </p>
+            </div>
+            <div class="col-3 text-center">
+                <p class="">
+                    | Food  | Cafe | Restaurant |
+                </p>
+                <p class="">
+                    | Social | Drinks |
+                </p>
+                <p class="">
+                    | Dinner | Modern | Tasty |
+                </p>
+            </div>
+            <div class="col-2 text-center">
+                <a class="navbar-brand" href="https://da-dk.facebook.com/">
+                    <img src="IMG/Icon/facebook.svg" style="width:20px;" /><br>
+
+                </a>
+                <a class="navbar-brand" href="https://www.instagram.com/">
+                    <img src="IMG/Icon/instagram.svg" style="width:20px;" /><br>
+                </a>
+                <a class="navbar-brand" href="https://www.youtube.com/?hl=da&gl=DK">
+                    <img src="IMG/Icon/youtube.svg" style="width:20px;" /><br>
+                </a>
+            </div>
+            <div class="col-2 text-center ">
+
+                <a class="ZeroTextDecoration" href="index.html">Forside</a><br>
+                <a class="ZeroTextDecoration" href="#">Book</a><br>
+                <a class="ZeroTextDecoration" href="#">Menu</a><br>
+                <a class="ZeroTextDecoration" href="#">Lokation</a><br>
+                <a class="ZeroTextDecoration" href="#">Om os</a>
+            </div>
+        </div>
+        <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.025);">
+            © 4778 Copyright: Cafe Vesuvius
+        </div>
+    </footer>
 </body>
 </html>

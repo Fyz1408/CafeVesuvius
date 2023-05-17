@@ -17,6 +17,8 @@ main {
 .welcomeImageBackground {
     object-fit: cover;
     opacity: 0.4;
+   /* max-width: 100%;*/
+    /*height: auto;*/
 }
 
 header {
@@ -50,7 +52,7 @@ header {
 
 }
 
-/* Bottom right text */
+
 .text-block1 {
     position: absolute;
     bottom: 5%;
@@ -62,13 +64,9 @@ header {
     padding-left: 20px;
     padding-right: 20px;
 }
-
-.footer {
-    /*position: -webkit-sticky;
-    position: sticky;
-    bottom: 0;*/
-
-    /*padding: 50px;*/
-    /*font-size: 20px;*/
-
+.textInBox {
+    bottom: 20%;
+    right: 20%;
+    left: 20%;
+    top: 20%;
 }
