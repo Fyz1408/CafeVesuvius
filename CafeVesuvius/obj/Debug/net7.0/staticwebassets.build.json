@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bJ1kkzFyw52YR20t5GdahRcOb+KI3zVJUQ9TKsUcUFg=",
+  "Hash": "FdvdEf3LCPOC3HST6LLWxWB8iVaFN1/mqNjRvMvGZ20=",
   "Source": "CafeVesuvius",
   "BasePath": "_content/CafeVesuvius",
   "Mode": "Default",
@@ -595,12 +595,12 @@
       "OriginalItemSpec": "wwwroot\\css\\SheetReservation.css"
     },
     {
-      "Identity": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Icon\\Cafe Visuvius Hjemmeside icon 1.PNG",
+      "Identity": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Icon\\Cafe Visuvius Hjemmeside icon 1.1.PNG",
       "SourceId": "CafeVesuvius",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\",
       "BasePath": "_content/CafeVesuvius",
-      "RelativePath": "IMG/Icon/Cafe Visuvius Hjemmeside icon 1.PNG",
+      "RelativePath": "IMG/Icon/Cafe Visuvius Hjemmeside icon 1.1.PNG",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -609,7 +609,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\IMG\\Icon\\Cafe Visuvius Hjemmeside icon 1.PNG"
+      "OriginalItemSpec": "wwwroot\\IMG\\Icon\\Cafe Visuvius Hjemmeside icon 1.1.PNG"
+    },
+    {
+      "Identity": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Icon\\Cafe Visuvius Hjemmeside icon 1.png",
+      "SourceId": "CafeVesuvius",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\",
+      "BasePath": "_content/CafeVesuvius",
+      "RelativePath": "IMG/Icon/Cafe Visuvius Hjemmeside icon 1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\IMG\\Icon\\Cafe Visuvius Hjemmeside icon 1.png"
     },
     {
       "Identity": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Icon\\Cafe Visuvius Hjemmeside icon.PNG",
