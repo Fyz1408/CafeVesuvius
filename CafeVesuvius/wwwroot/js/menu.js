@@ -88,6 +88,41 @@ function setupMenu(withImages) {
         });
 }
 
+function setupMenuWithAjax(withImages) {
+    $.ajax({
+        url:'http://localhost:5118/menu-items' ,
+        dataType: 'json',
+        type: "GET",
+        success: function setup(response) {
+            console.log("TESTER HEST ", response)
+            var data = jQuery.parseJSON(response);
+            console.log(data)
+            $.each(data, function (key, value) {
+                console.log(value.menuItemId)
+                if (withImages) {
+                    $("#" + 'list-group' + value.foodCategoryId).append(
+                        "<a href='#' class='menuItemUnit list-group-item flex-column'>" +
+                        "<img class='img-fluid rounded menuItemImg' src=" + "IMG/menu/webp/" + value.menuItemId + ".webp" + " onerror=this.src='IMG/menu/default.jpg'; alt=" + value.name.replace(/ /g, '') + "/>" +
+                        "<b class='menuItem'>" + value.name + "</b>" +
+                        "<p class=menuDescription>" + value.escription + "</p>" +
+                        "<b>Fra " + value.price + ",-</b>" +
+                        "</a>"
+                    );
+                } else {
+                    $("#" + 'list-group' + value.ProductCategoryId).append(
+                        "<a href='#' class='list-group-item flex-column'>" +
+                        "<p class='menuItem'>" + value.ProductName +
+                        "<b>Fra " + value.Price + ",-" +
+                        "</b></p></a>"
+                    );
+                }
+            });
+        },
+        error: function(xhr, status, error) { console.log(xhr, status, error)},
+    });
+}
+
+
 // Inserts all product categories from the API into the dropdown
 function setupDropdown() {
     $.get('/allProductCategories',  // url
