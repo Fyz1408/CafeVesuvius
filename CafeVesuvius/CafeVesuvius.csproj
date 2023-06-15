@@ -17,4 +17,14 @@
       <PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.1" />
     </ItemGroup>
 
+    <ItemGroup>
+      <None Remove="Dockerfile" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="Microsoft.Data.SqlClient">
+        <HintPath>bin\Debug\net7.0\Microsoft.Data.SqlClient.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
 </Project>

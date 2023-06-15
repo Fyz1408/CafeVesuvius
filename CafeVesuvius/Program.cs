@@ -8,7 +8,7 @@ app.UseStaticFiles();
 
 app.MapGet("/allMenuItemsWithProductCategory", async () =>
 {
-  using (SqlConnection conn = new SqlConnection(builder.Configuration.GetConnectionString("TestConnection")))
+  using (SqlConnection conn = new SqlConnection(builder.Configuration.GetConnectionString("DefaultConnection")))
   using (SqlCommand sqlCommand = new SqlCommand("GetAllMenuItemsWithProductCategoryOptimal", conn))
   {
     conn.Open();
@@ -18,7 +18,7 @@ app.MapGet("/allMenuItemsWithProductCategory", async () =>
 
 app.MapGet("/allProductCategories", async () =>
 {
-  using (SqlConnection conn = new SqlConnection(builder.Configuration.GetConnectionString("TestConnection")))
+  using (SqlConnection conn = new SqlConnection(builder.Configuration.GetConnectionString("DefaultConnection")))
   using (SqlCommand sqlCommand = new SqlCommand("GetAllProductCategories", conn))
   {
     conn.Open();
