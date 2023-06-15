@@ -1,5 +1,5 @@
 $(function () {
-    
+
     if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
         setupProductCategoriesAndMenu(false);
     } else {
@@ -42,17 +42,17 @@ function setupProductCategoriesAndMenu(withImages) {
             $.each(data, function (key, value) {
                 if (withImages) {
                     $("#menuItemSection").append(
-                        "<div class='row justify-content-center' id=menuItemsRow" + value.Id + ">" +
-                        "<div class='menuItemTitle' style='margin-top: 15px' id=menuItemTitle" + value.Id + ">" +
+                        "<div class='row justify-content-center' id=menuItemsRow" + value.FoodCategoryId + ">" +
+                        "<div class='menuItemTitle' style='margin-top: 15px' id=menuItemTitle" + value.FoodCategoryId + ">" +
                         "<h4>" + value.Name + "</h4>" +
-                        "<div class='list-group flex-row overflow-scroll' id=list-group" + value.Id + ">" +
+                        "<div class='list-group flex-row overflow-scroll' id=list-group" + value.FoodCategoryId + ">" +
                         "</div></div></div>"
                     );
                 } else {
                     $("#menuItemSection").append(
-                        "<div class='menuItemTitle' style='margin-top: 15px' id=menuItemTitle" + value.Id + ">" +
+                        "<div class='menuItemTitle' style='margin-top: 15px' id=menuItemTitle" + value.FoodCategoryId + ">" +
                         "<h4>" + value.Name + "</h4>" +
-                        "<div class='list-group' id=list-group" + value.Id + ">" +
+                        "<div class='list-group' id=list-group" + value.FoodCategoryId + ">" +
                         "</div></div>"
                     );
                 }
@@ -70,7 +70,7 @@ function setupMenu(withImages) {
                 if (withImages) {
                     $("#" + 'list-group' + value.ProductCategoryId).append(
                         "<a href='#' class='menuItemUnit list-group-item flex-column'>" +
-                        "<img class='img-fluid rounded menuItemImg' src=" + "IMG/menu/webp/" + value.ProductId + ".webp" + " onerror=this.src='IMG/menu/default.jpg'; alt=" + value.ProductName.replace(/ /g, '') + "/>" +
+                        "<img class='img-fluid rounded menuItemImg' src=" + "IMG/menu/webp/" + value.ProductName.replace(/ /g, '') + ".webp" + " onerror=this.src='IMG/menu/default.jpg'; alt=" + value.ProductName.replace(/ /g, '') + "/>" +
                         "<b class='menuItem'>" + value.ProductName + "</b>" +
                         "<p class=menuDescription>" + value.Description + "</p>" +
                         "<b>Fra " + value.Price + ",-</b>" +
@@ -90,7 +90,7 @@ function setupMenu(withImages) {
 
 function setupMenuWithAjax(withImages) {
     $.ajax({
-        url:'http://localhost:5118/menu-items' ,
+        url: 'http://localhost:5118/menu-items',
         dataType: 'json',
         type: "GET",
         success: function setup(response) {
@@ -118,7 +118,9 @@ function setupMenuWithAjax(withImages) {
                 }
             });
         },
-        error: function(xhr, status, error) { console.log(xhr, status, error)},
+        error: function (xhr, status, error) {
+            console.log(xhr, status, error)
+        },
     });
 }
 
@@ -130,7 +132,7 @@ function setupDropdown() {
             var data = jQuery.parseJSON(response);
             $.each(data, function (key, value) {
                 $(".menuItemsDropdown").append(
-                    new Option(value.Name, value.Id)
+                    new Option(value.Name, value.FoodCategoryId)
                 );
             });
         });
