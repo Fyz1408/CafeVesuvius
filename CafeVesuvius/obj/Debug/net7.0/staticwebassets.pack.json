@@ -1,287 +1,567 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Icon\\Cafe Visuvius Hjemmeside icon 1.1.PNG",
-      "PackagePath": "staticwebassets\\IMG\\Icon\\Cafe Visuvius Hjemmeside icon 1.1.PNG"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Icon\\Cafe Visuvius Hjemmeside icon 1.png",
-      "PackagePath": "staticwebassets\\IMG\\Icon\\Cafe Visuvius Hjemmeside icon 1.png"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/.DS_Store",
+      "PackagePath": "staticwebassets/IMG/.DS_Store"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Icon\\Cafe Visuvius Hjemmeside icon.PNG",
-      "PackagePath": "staticwebassets\\IMG\\Icon\\Cafe Visuvius Hjemmeside icon.PNG"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/Icon/Cafe Visuvius Hjemmeside icon 1.PNG",
+      "PackagePath": "staticwebassets/IMG/Icon/Cafe Visuvius Hjemmeside icon 1.PNG"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Icon\\facebook.svg",
-      "PackagePath": "staticwebassets\\IMG\\Icon\\facebook.svg"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/Icon/Cafe Visuvius Hjemmeside icon.PNG",
+      "PackagePath": "staticwebassets/IMG/Icon/Cafe Visuvius Hjemmeside icon.PNG"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Icon\\instagram.svg",
-      "PackagePath": "staticwebassets\\IMG\\Icon\\instagram.svg"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/Icon/facebook.svg",
+      "PackagePath": "staticwebassets/IMG/Icon/facebook.svg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Icon\\messenger.svg",
-      "PackagePath": "staticwebassets\\IMG\\Icon\\messenger.svg"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/Icon/instagram.svg",
+      "PackagePath": "staticwebassets/IMG/Icon/instagram.svg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Icon\\youtube.svg",
-      "PackagePath": "staticwebassets\\IMG\\Icon\\youtube.svg"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/Icon/messenger.svg",
+      "PackagePath": "staticwebassets/IMG/Icon/messenger.svg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Person.png",
-      "PackagePath": "staticwebassets\\IMG\\Person.png"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/Icon/youtube.svg",
+      "PackagePath": "staticwebassets/IMG/Icon/youtube.svg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Restaurant Items\\Hjemmelavet-Burger-Shack-Burger-1.webp",
-      "PackagePath": "staticwebassets\\IMG\\Restaurant Items\\Hjemmelavet-Burger-Shack-Burger-1.webp"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/Person.png",
+      "PackagePath": "staticwebassets/IMG/Person.png"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Restaurant Items\\Tigerrejesalat.jpg",
-      "PackagePath": "staticwebassets\\IMG\\Restaurant Items\\Tigerrejesalat.jpg"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/Restaurant Items/.DS_Store",
+      "PackagePath": "staticwebassets/IMG/Restaurant Items/.DS_Store"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Restaurant Items\\llama-drinks-1000x600.jpg",
-      "PackagePath": "staticwebassets\\IMG\\Restaurant Items\\llama-drinks-1000x600.jpg"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/Restaurant Items/burger.jpg",
+      "PackagePath": "staticwebassets/IMG/Restaurant Items/burger.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\Restaurant Items\\nachos supreme.jpg",
-      "PackagePath": "staticwebassets\\IMG\\Restaurant Items\\nachos supreme.jpg"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/Restaurant Items/drinks.jpg",
+      "PackagePath": "staticwebassets/IMG/Restaurant Items/drinks.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\restaurant food Img 2-1.jpg",
-      "PackagePath": "staticwebassets\\IMG\\restaurant food Img 2-1.jpg"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/Restaurant Items/salad.jpg",
+      "PackagePath": "staticwebassets/IMG/Restaurant Items/salad.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\restaurant food Img 2.jpg",
-      "PackagePath": "staticwebassets\\IMG\\restaurant food Img 2.jpg"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/.DS_Store",
+      "PackagePath": "staticwebassets/IMG/menu/.DS_Store"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\IMG\\restaurant food Img 3.avif",
-      "PackagePath": "staticwebassets\\IMG\\restaurant food Img 3.avif"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/default.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/default.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\Om_os.html",
-      "PackagePath": "staticwebassets\\Om_os.html"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/.DS_Store",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/.DS_Store"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\Reservation.html",
-      "PackagePath": "staticwebassets\\Reservation.html"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/AperolSpritz.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/AperolSpritz.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\Fodder.css",
-      "PackagePath": "staticwebassets\\css\\Fodder.css"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/ClubSandwich.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/ClubSandwich.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\SheetReservation.css",
-      "PackagePath": "staticwebassets\\css\\SheetReservation.css"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/CocaColaVanilla.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/CocaColaVanilla.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap-grid.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/CrispyChickenBurger.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/CrispyChickenBurger.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/CæsarSalat.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/CæsarSalat.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/Darknstormy.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/Darknstormy.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/DrPepperVanillaFloat.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/DrPepperVanillaFloat.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/EspressoMartini.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/EspressoMartini.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/Faxekondi.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/Faxekondi.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/Faxekondisukkerfri.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/Faxekondisukkerfri.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/GinHaas.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/GinHaas.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap-reboot.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/GinTonic.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/GinTonic.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/Laksesandwich.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/Laksesandwich.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/Mojito.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/Mojito.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/MoscowMule.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/MoscowMule.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/NachosSupreme.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/NachosSupreme.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/OdenseClassic.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/OdenseClassic.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/OdensePilsner.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/OdensePilsner.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/PastamedOksemørbrad.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/PastamedOksemørbrad.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap-utilities.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/PastamedTigerrejer.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/PastamedTigerrejer.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/Pastamedkylling.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/Pastamedkylling.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/PepsiMax.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/PepsiMax.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/SpicyBurger.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/SpicyBurger.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/StrawberryDaquiri.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/StrawberryDaquiri.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/Tigerrejesalat.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/Tigerrejesalat.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/Tomatsuppe.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/Tomatsuppe.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/TunSandwich.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/TunSandwich.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/VegetarSalat.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/VegetarSalat.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/VesuviusBurger.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/VesuviusBurger.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/cocacola.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/cocacola.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/default.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/default.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap.rtl.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/jpg/spicysteaksandwich.jpg",
+      "PackagePath": "staticwebassets/IMG/menu/jpg/spicysteaksandwich.jpg"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/noImage.png",
+      "PackagePath": "staticwebassets/IMG/menu/noImage.png"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/.DS_Store",
+      "PackagePath": "staticwebassets/IMG/menu/webp/.DS_Store"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\css\\bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/AperolSpritz.webp",
+      "PackagePath": "staticwebassets/IMG/menu/webp/AperolSpritz.webp"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\index.html",
-      "PackagePath": "staticwebassets\\index.html"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/ClubSandwich.webp",
+      "PackagePath": "staticwebassets/IMG/menu/webp/ClubSandwich.webp"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\js\\bootstrap.bundle.js",
-      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/CocaColaVanilla.webp",
+      "PackagePath": "staticwebassets/IMG/menu/webp/CocaColaVanilla.webp"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\js\\bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/CrispyChickenBurger.webp",
+      "PackagePath": "staticwebassets/IMG/menu/webp/CrispyChickenBurger.webp"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\js\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/CæsarSalat.webp",
+      "PackagePath": "staticwebassets/IMG/menu/webp/CæsarSalat.webp"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\js\\bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/Darknstormy.webp",
+      "PackagePath": "staticwebassets/IMG/menu/webp/Darknstormy.webp"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\js\\bootstrap.esm.js",
-      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/DrPepperVanillaFloat.webp",
+      "PackagePath": "staticwebassets/IMG/menu/webp/DrPepperVanillaFloat.webp"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\js\\bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/EspressoMartini.webp",
+      "PackagePath": "staticwebassets/IMG/menu/webp/EspressoMartini.webp"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\js\\bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/Faxekondi.webp",
+      "PackagePath": "staticwebassets/IMG/menu/webp/Faxekondi.webp"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\js\\bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/Faxekondisukkerfri.webp",
+      "PackagePath": "staticwebassets/IMG/menu/webp/Faxekondisukkerfri.webp"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\js\\bootstrap.js",
-      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/GinHaas.webp",
+      "PackagePath": "staticwebassets/IMG/menu/webp/GinHaas.webp"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\js\\bootstrap.js.map",
-      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/GinTonic.webp",
+      "PackagePath": "staticwebassets/IMG/menu/webp/GinTonic.webp"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/Laksesandwich.webp",
+      "PackagePath": "staticwebassets/IMG/menu/webp/Laksesandwich.webp"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\js\\bootstrap.min.js.map",
-      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/Mojito.webp",
+      "PackagePath": "staticwebassets/IMG/menu/webp/Mojito.webp"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\js\\menu.js",
-      "PackagePath": "staticwebassets\\js\\menu.js"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/MoscowMule.webp",
+      "PackagePath": "staticwebassets/IMG/menu/webp/MoscowMule.webp"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\menu.html",
-      "PackagePath": "staticwebassets\\menu.html"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/NachosSupreme.webp",
+      "PackagePath": "staticwebassets/IMG/menu/webp/NachosSupreme.webp"
     },
     {
-      "Id": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\wwwroot\\styles\\menuStyles.css",
-      "PackagePath": "staticwebassets\\styles\\menuStyles.css"
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/OdenseClassic.webp",
+      "PackagePath": "staticwebassets/IMG/menu/webp/OdenseClassic.webp"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.CafeVesuvius.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/OdensePilsner.webp",
+      "PackagePath": "staticwebassets/IMG/menu/webp/OdensePilsner.webp"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/PastamedOksemørbrad.webp",
+      "PackagePath": "staticwebassets/IMG/menu/webp/PastamedOksemørbrad.webp"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/PastamedTigerrejer.webp",
+      "PackagePath": "staticwebassets/IMG/menu/webp/PastamedTigerrejer.webp"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/Pastamedkylling.webp",
+      "PackagePath": "staticwebassets/IMG/menu/webp/Pastamedkylling.webp"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/PepsiMax.webp",
+      "PackagePath": "staticwebassets/IMG/menu/webp/PepsiMax.webp"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/SpicyBurger.webp",
+      "PackagePath": "staticwebassets/IMG/menu/webp/SpicyBurger.webp"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/StrawberryDaquiri.webp",
+      "PackagePath": "staticwebassets/IMG/menu/webp/StrawberryDaquiri.webp"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/Tigerrejesalat.webp",
+      "PackagePath": "staticwebassets/IMG/menu/webp/Tigerrejesalat.webp"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/Tomatsuppe.webp",
+      "PackagePath": "staticwebassets/IMG/menu/webp/Tomatsuppe.webp"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/TunSandwich.webp",
+      "PackagePath": "staticwebassets/IMG/menu/webp/TunSandwich.webp"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/VegetarSalat.webp",
+      "PackagePath": "staticwebassets/IMG/menu/webp/VegetarSalat.webp"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/VesuviusBurger.webp",
+      "PackagePath": "staticwebassets/IMG/menu/webp/VesuviusBurger.webp"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/cocacola.webp",
+      "PackagePath": "staticwebassets/IMG/menu/webp/cocacola.webp"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/default.webp",
+      "PackagePath": "staticwebassets/IMG/menu/webp/default.webp"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/menu/webp/spicysteaksandwich.webp",
+      "PackagePath": "staticwebassets/IMG/menu/webp/spicysteaksandwich.webp"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/restaurant food Img 2-1.jpg",
+      "PackagePath": "staticwebassets/IMG/restaurant food Img 2-1.jpg"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/restaurant food Img 2.jpg",
+      "PackagePath": "staticwebassets/IMG/restaurant food Img 2.jpg"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/IMG/restaurant food Img 3.avif",
+      "PackagePath": "staticwebassets/IMG/restaurant food Img 3.avif"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/Om_os.html",
+      "PackagePath": "staticwebassets/Om_os.html"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/Reservation.html",
+      "PackagePath": "staticwebassets/Reservation.html"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/Fodder.css",
+      "PackagePath": "staticwebassets/css/Fodder.css"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/SheetReservation.css",
+      "PackagePath": "staticwebassets/css/SheetReservation.css"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/bootstrap.css",
+      "PackagePath": "staticwebassets/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/js/bootstrap.js",
+      "PackagePath": "staticwebassets/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/js/menu.js",
+      "PackagePath": "staticwebassets/js/menu.js"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/menu.html",
+      "PackagePath": "staticwebassets/menu.html"
+    },
+    {
+      "Id": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/wwwroot/styles/menuStyles.css",
+      "PackagePath": "staticwebassets/styles/menuStyles.css"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.CafeVesuvius.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.CafeVesuvius.props",
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.CafeVesuvius.props",
       "PackagePath": "build\\CafeVesuvius.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.CafeVesuvius.props",
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.CafeVesuvius.props",
       "PackagePath": "buildMultiTargeting\\CafeVesuvius.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.CafeVesuvius.props",
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.CafeVesuvius.props",
       "PackagePath": "buildTransitive\\CafeVesuvius.props"
     }
   ],

@@ -1,27 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\CafeVesuvius.csproj": {}
+    "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/CafeVesuvius.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\CafeVesuvius.csproj": {
+    "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/CafeVesuvius.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\CafeVesuvius.csproj",
+        "projectUniqueName": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/CafeVesuvius.csproj",
         "projectName": "CafeVesuvius",
-        "projectPath": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\CafeVesuvius.csproj",
-        "packagesPath": "C:\\Users\\HFGF\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HFGF\\source\\repos\\Fyz1408\\CafeVesuvius\\CafeVesuvius\\obj\\",
+        "projectPath": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/CafeVesuvius.csproj",
+        "packagesPath": "/Users/daniellykke/.nuget/packages/",
+        "outputPath": "/Users/daniellykke/RiderProjects/CafeVesuvius/CafeVesuvius/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HFGF\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/daniellykke/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
+          "/usr/local/share/dotnet/sdk/7.0.302/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
         }
       }
     }

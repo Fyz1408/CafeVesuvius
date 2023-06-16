@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="..\buildMultiTargeting\CafeVesuvius.props" />
+  <Import Project="../buildMultiTargeting/CafeVesuvius.props" />
 </Project>
